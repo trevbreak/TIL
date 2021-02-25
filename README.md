@@ -4,4 +4,4 @@
 
 - **4th February, 2021** The GoF (Gang of Four) wrote the book 'Design Patterns' that covers a range of object orientated programming design patterns covering CREATIONAL, STRUCTURAL, and BEHAVIORAL patterns. 
 
-- **25th February, 2021** Dual track development involves doing discovery and development in parallel, having backlogs for both - and only promoting ideas to the development backlog that have been validated to be worthwhile of investment.
+- **25th February, 2021** Dual track development involves doing discovery and development in parallel, having backlogs for both - and only promoting ideas to the development backlog that have been validated to be worthwhile of investment [Read More](https://www.jpattonassociates.com/dual-track-development/)
